@@ -94,7 +94,6 @@ const projects: Project[] = [
     tags: ["Photography", "Product", "Luxury"],
   },
   {
-    
     id: 6,
     title: "Marketing Collateral Suite",
     category: "Branding & Collateral",
