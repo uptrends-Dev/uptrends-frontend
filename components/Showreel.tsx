@@ -45,7 +45,7 @@ export const Showreel: React.FC = () => {
       ref={ref}
       id="showreel"
       aria-labelledby="showreel-heading"
-      className="py-24 px-6 bg-linear-to-br from-purple-900 via-slate-900 to-slate-800 text-white"
+      className="py-24 px-6 bg-linear-to-br from-purple-900 via-slate-900 to-slate-800 text-white overflow-hidden"
     >
       <div className="container mx-auto max-w-7xl">
         <motion.div

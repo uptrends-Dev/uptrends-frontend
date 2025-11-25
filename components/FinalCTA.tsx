@@ -36,7 +36,7 @@ export const FinalCTA: React.FC = () => {
       ref={ref}
       id="contact"
       aria-labelledby="contact-heading"
-      className="py-24 px-6 bg-linear-to-br from-purple-900 via-slate-900 to-purple-900 text-white"
+      className="py-24 px-6 bg-linear-to-br from-purple-900 via-slate-900 to-purple-900 text-white overflow-hidden"
     >
       <div className="container mx-auto max-w-7xl">
         <motion.div

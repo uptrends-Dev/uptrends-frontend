@@ -62,7 +62,7 @@ export const Badges: React.FC = () => {
   return (
     <section
       ref={ref}
-      className="py-20 px-6 bg-linear-to-b from-slate-50 to-white"
+      className="py-20 px-6 bg-linear-to-b from-slate-50 to-white overflow-hidden"
       aria-labelledby="badges-heading"
     >
       <div className="container mx-auto">
